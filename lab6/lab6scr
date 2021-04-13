@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+echo "lab6cron" > /home/jester/linuxadm/lab6/cron.txt

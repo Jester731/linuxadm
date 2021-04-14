@@ -30,6 +30,9 @@ ifconfig eth0 up
 
 5. Получить 
 настройки IP от DHCP сервера;
+```
+iface eth0 inet dhcp
+```
 
 ![](5.png)
 
